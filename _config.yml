@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Shirley"
-  avatar           : "1.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "2.jpg"
+  bio              : "Security Engineer, tourist"
+  location         : "ShangHai"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
