@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Welcome to my Github"
 excerpt: "About me"
